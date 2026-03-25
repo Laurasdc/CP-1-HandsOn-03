@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\bin\Debug\net8.0\JogosDeCartas.deps.json
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\bin\Debug\net8.0\JogosDeCartas.dll
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\bin\Debug\net8.0\JogosDeCartas.pdb
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.dll
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\refint\JogosDeCartas.dll
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.pdb
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\ref\JogosDeCartas.dll
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\bin\Debug\net8.0\JogosDeCartas.exe
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\bin\Debug\net8.0\JogosDeCartas.runtimeconfig.json
+C:\Users\labsfiap\Downloads\Ex C#\JogosDeCartas\obj\Debug\net8.0\JogosDeCartas.genruntimeconfig.cache
